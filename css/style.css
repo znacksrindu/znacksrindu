@@ -1,0 +1,33 @@
+body {
+  background-color: #F79521;
+  font-family: "Mongolian Baiti";
+}
+
+.logo {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.btn {
+  background-color: white;
+  border: 1px solid #707070;
+  margin-bottom: 15px;
+  border-radius: 20px;
+  box-shadow: 0px 1px 6px rgba(0,0,0,0.8);
+}
+
+.btn:hover {
+  background-color: #F7AF35;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.maskot {
+  text-align: center;
+}
+
+.sosmed {
+  text-align: center;
+}
